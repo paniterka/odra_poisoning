@@ -1,0 +1,9 @@
+Filename stub|Name DE|Name PL|Name EN|Unit 
+wtemp_31t_fran_kl|Wassertemperatur|Temperatura wody|Water temperature|Celsius 
+o2geh_31t_fran_kl|Sauerstoffgehalt|Stężenie tlenu|Oxygen concentration|mg/l 
+ph_31t_fran_kl|pH-Wert|pH|pH|-
+leit_31t_fran_kl|elektrische Leitfähigkeit|Przewodniość elektryczna|Electrical conductivity|uS/cm 
+trueb_31t_fran_kl|Trübung|Mętność|Turbidity|TEF 
+UV_31t_fran_kl|UV-Absorption bei 254 nm|Absorpcja UV (254 nm)|UV Absorption (254 nm)|1/m 
+nitrat_31t_fran_kl|Nitrat-Stickstoff|Azot azotanowy|Nitrate-nitrogen|mg/l
+geschl_31t_fran_kl|Gesamtchlorophyll|Chlorofil całkowity|Chlorophyll (total)|ug/l
